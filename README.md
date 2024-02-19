@@ -1,2 +1,2 @@
 # fmCongoGospel
-{"categories":[{"name":"Movies","videos":[{"description":"
+{"categories":[{"name":"Movies","videos":[{"description":"Congo FM GOSPEL est l'une des Televisions en charactere Gospel avec la diversite sans stop de la Musique Religieuse, Prédications et autres... Sans oublier des Emissions special chretienne. Veuillez nous contacter : congomonpays243@gmail.com","sources":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcwMjI0ODRf/fmGospelCongo.jpg","title":"CONGO FM GOSPEL"}]}]}
