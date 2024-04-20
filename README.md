@@ -16,13 +16,13 @@
 
 {"description":"Canal+ Sports 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://145.239.5.177:8080/342/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTMwNjNf/canalPlusSportsThree.jpg","title":"CANAL+ SPORTS 3"},
 
-{"description":"Super sports Grand Stand","sources":["http://145.239.5.177:8080/567/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTgzNTc3NTRf/granndStand.jpg","title":"SUPER SPORTS"},
-
 {"description":"RMC 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://145.239.5.177:8080/524/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg","title":"RMC 1"},
 
 {"description":"RMC 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://145.239.5.177:8080/525/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png","title":"RMC 2"},
 
 {"description":"RMC 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://145.239.5.177:8080/526/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png","title":"RMC 3"},
+
+{"description":"Super sports Grand Stand","sources":["http://145.239.5.177:8080/567/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTgzNTc3NTRf/granndStand.jpg","title":"SUPER SPORTS"},
 
 {"description":"Amazon Prime 1 est la chaine consacrée aux Sports et aux activités sportives....","sources":["http://145.239.5.177:8080/516/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTExMDhf/AmazonSportOne.jpg","title":"AMAZON PRIME 1"},
 
@@ -65,4 +65,19 @@
 
 {"description":"Manjaro TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4404"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTQ2MDg4MDdf/Manjarotv.jpg","title":"MANJARO TV"},
 
-{"description":"bbc drama est une chaine de divertissement, des films et series pour votre divertissement","sources":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png","title":"BBC DRAMA TV"}]}]}
+{"description":"bbc drama est une chaine de divertissement, des films et series pour votre divertissement","sources":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png","title":"BBC DRAMA TV"},
+
+
+{"description":"Chine Global Television Network TV 2 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sources":["http://livefr.cgtn.com/1000f/prog_index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg","title":"CGTN"},
+
+{"description":"Chine Global Television Network TV 1 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sources":["http://live.cgtn.com/1000/prog_index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg","title":"CGTN 2"},
+
+{"description":"Adventure Earth UK est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sources":["https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ADVENTURE EARTH UK"},
+
+{"description":"National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.","sources":["http://168.227.22.18:1935/live/mobile-091/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","title":"NAT GEOGRAPHIC"}
+
+
+
+
+
+]}]}
