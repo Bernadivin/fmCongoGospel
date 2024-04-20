@@ -133,6 +133,24 @@
 
 {"description":"TMA Caraïbes est une chaîne télévisée spécialisée dans la musique africaine et international.","sources":["http://hls.tmacaraibes.com/live/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMyMzgzMjhf/tma.jpeg","title":"T.M.A CARAÏBES"},
 
+{"description":"TV5 est une francaise d'informations international et autres.","sources":["https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","title":"TV5 MONDE"},
+
+{"description":"RT France est une chaîne télévisée d'informations international et autres.","sources":["http://69.64.57.208/rtfrance/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png","title":"RT FRANCE"},
+
+{"description":"Business 24 TV est une chaîne télévisée d'informations international et autres.","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","title":"BUSINESS 24"},
+
+{"description":"Africa 24 est une chaîne télévisée d'informations international et autres.","sources":["https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","title":"AFRICA 24"},
+
+{"description":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","source":["https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","title":"BLOOMBERG TV"},
+
+{"description":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","source":["https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","title":"BLOOMBERG 2"},
+
+{"description":"EURONEWS est une chaîne télévisée d'informations international et autres.","source":["https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTM4NjJf/euronew.png","title":"EURONEWS ENGLISH"}
+
+
+
+
+
 
 
 
