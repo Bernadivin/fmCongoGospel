@@ -89,7 +89,7 @@
 
 {"description":"PLEX TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["http://41.223.30.250:5000/plextv/@plextv/chunklist_w319266551.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA5OTk4NTRf/plex.png","title":"PLEX TV"},
 
-{"descriptionNovela":"Rakuten Fiction est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-films-francais-1-eu.rakuten.wurl.tv/2000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY5NTM5MTVf/fiction.jpg","title":"FILM FICTION"},
+{"description":"Rakuten Fiction est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-films-francais-1-eu.rakuten.wurl.tv/2000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY5NTM5MTVf/fiction.jpg","title":"FILM FICTION"},
 
 {"description":"Rakuten MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-actionmovies-7-fr.samsung.wurl.tv/2000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY5NTM4MzVf/rakumovie.jpg","title":"RAKUTEN MOVIE"},
 
