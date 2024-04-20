@@ -105,7 +105,7 @@
 
 {"description":"Afrobeat tv is a division of kaycee records .Kaycee Records is an independent record label established in the United Kingdom, and Nigeria Owned by Kennedy Kesidi Richard from Oguta in Imo State Nigeria .Afro beat tv is the new musical innovation to promote African art and and as a platform to promote and create awareness for up coming African artist all around the globe","sources":["https://stream.ecable.tv/afrobeats/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTEwMjk3MDBf/afrobeats.jpg","title":"AFROBEATS"},
 
-{"description":"AFROBIT TV est la chaine de la RDCongo qui emette de la capital congolaise kinshasa qui diffuse de la musique congolaise et internationale","sources":["http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8"],"subtitle":"By Channel","thumbTrace":"https://od.lk/s/M18yNDU0NzcyNzRf/afrobeats.jpg","title":"AFROBIT TV"},
+{"description":"AFROBIT TV est la chaine de la RDCongo qui emette de la capital congolaise kinshasa qui diffuse de la musique congolaise et internationale","sources":["http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNDU0NzcyNzRf/afrobeats.jpg","title":"AFROBIT TV"},
 
 {"description":"Obosso TV est une chaîne du congo brazza en diffusant des musiques congolaise et africains....","sources":["https://obossobroadcast.fr/otv/obossotv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","title":"OBOSSO TV"},
 
