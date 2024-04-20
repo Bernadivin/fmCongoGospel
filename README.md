@@ -93,7 +93,7 @@
 
 {"description":"Rakuten MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-actionmovies-7-fr.samsung.wurl.tv/2000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY5NTM4MzVf/rakumovie.jpg","title":"RAKUTEN MOVIE"},
 
-{"description":"Rakuten TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTg5Mjhf/rakuten.png","title":"FILM PLUS"},
+{"description":"Rakuten TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNTg5Mjhf/rakuten.png","title":"FILM PLUS"},
 
 {"description":"Gospel Movies TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres","sources":["https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNjU3MzNf/gospelmovie.jpeg","title":"GOSPEL MOVIES"},
 
