@@ -141,11 +141,11 @@
 
 {"description":"Africa 24 est une chaîne télévisée d'informations international et autres.","sources":["https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","title":"AFRICA 24"},
 
-{"description":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","source":["https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","title":"BLOOMBERG TV"},
+{"description":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sources":["https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","title":"BLOOMBERG TV"},
 
-{"description":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","source":["https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","title":"BLOOMBERG 2"},
+{"description":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sources":["https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","title":"BLOOMBERG 2"},
 
-{"description":"EURONEWS est une chaîne télévisée d'informations international et autres.","source":["https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTM4NjJf/euronew.png","title":"EURONEWS ENGLISH"}
+{"description":"EURONEWS est une chaîne télévisée d'informations international et autres.","sources":["https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTM4NjJf/euronew.png","title":"EURONEWS ENGLISH"}
 
 
 
