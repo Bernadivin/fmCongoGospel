@@ -137,7 +137,7 @@
 
 {"description":"RT France est une chaîne télévisée d'informations international et autres.","sources":["http://69.64.57.208/rtfrance/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png","title":"RT FRANCE"},
 
-{"description":"Business 24 TV est une chaîne télévisée d'informations international et autres.","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif","title":"BUSINESS 24"},
+{"description":"Business 24 TV est une chaîne télévisée d'informations international et autres.","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BUSINESS 24"},
 
 {"description":"Africa 24 est une chaîne télévisée d'informations international et autres.","sources":["https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","title":"AFRICA 24"},
 
