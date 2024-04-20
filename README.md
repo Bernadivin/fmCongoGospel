@@ -74,7 +74,28 @@
 
 {"description":"Adventure Earth UK est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sources":["https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ADVENTURE EARTH UK"},
 
-{"description":"National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.","sources":["http://168.227.22.18:1935/live/mobile-091/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","title":"NAT GEOGRAPHIC"}
+{"description":"National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.","sources":["http://168.227.22.18:1935/live/mobile-091/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","title":"NAT GEOGRAPHIC"},
+
+
+{"description":"Disney TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","title":"SUPER FILM"},
+
+{"description":"Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","title":"MYTIME MOVIES"},
+
+{"description":"Rakuten Action est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/2000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY5NTM4MzNf/rakuaction.jpg","title":"RAKUTEN ACTION"},
+
+{"description":"Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTE2NzM5MjVf/cinmax.jpeg","title":"CINE MAX"},
+
+{"description":"Rakuten Drama est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-romance-7-fr.plex.wurl.tv/2000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY5NTM4MzJf/rakudrama.jpg","title":"FILM DRAMA"},
+
+{"description":"PLEX TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["http://41.223.30.250:5000/plextv/@plextv/chunklist_w319266551.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA5OTk4NTRf/plex.png","title":"PLEX TV"},
+
+{"descriptionNovela":"Rakuten Fiction est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-films-francais-1-eu.rakuten.wurl.tv/2000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY5NTM5MTVf/fiction.jpg","title":"FILM FICTION"},
+
+{"description":"Rakuten MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-actionmovies-7-fr.samsung.wurl.tv/2000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY5NTM4MzVf/rakumovie.jpg","title":"RAKUTEN MOVIE"},
+
+{"description":"Rakuten TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNTg5Mjhf/rakuten.png","title":"FILM PLUS"},
+
+{"description":"Gospel Movies TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres","sources":["https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNjU3MzNf/gospelmovie.jpeg","title":"GOSPEL MOVIES"},
 
 
 
