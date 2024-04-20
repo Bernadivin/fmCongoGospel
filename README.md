@@ -21,32 +21,18 @@
 
 {"description":"Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais","sources":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg","title":"CINEMA HAUSA"},
 
+{"description":"Africawood BlockBuster TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg","title":"AFRIWOOD BLOCKBUSTER"},
 
+{"description":"True Africa TV est chaîne mexicaine de divertissement, des films et series mexicaines pour votre divertissement","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg","title":"TRUE AFRICA"},
 
+{"description":"Afriood Series TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA3Mjhf/afriwood.jpg","title":"AFRIWOOD SERIES"},
 
+{"description":"Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4265"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA3MDdf/afroland.png","title":"AFROLAND TV"},
 
-{"descriptionNovela":"Africawood BlockBuster TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg","titleNovela":"AFRIWOOD BLOCKBUSTER"},
+{"description":"Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg","title":"AFROLAND 2"},
 
-{"descriptionNovela":"True Africa TV est chaîne mexicaine de divertissement, des films et series mexicaines pour votre divertissement","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg","titleNovela":"TRUE AFRICA"},
+{"description":"Romanza TV est une chaine des films et series pour votre divertissement","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTA5NzY3MDRf/romanza.jpeg","title":"ROMANZA"},
 
-{"descriptionNovela":"Afriood Series TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3Mjhf/afriwood.jpg","titleNovela":"AFRIWOOD SERIES"},
+{"description":"Manjaro TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4404"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTQ2MDg4MDdf/Manjarotv.jpg","title":"MANJARO TV"},
 
-{"descriptionNovela":"Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4265"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MDdf/afroland.png","titleNovela":"AFROLAND TV"},
-
-{"descriptionNovela":"Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg","titleNovela":"AFROLAND 2"},
-
-{"descriptionNovela":"Romanza TV est une chaine des films et series pour votre divertissement","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTA5NzY3MDRf/romanza.jpeg","titleNovela":"ROMANZA"},
-
-{"descriptionNovela":"Manjaro TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4404"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ2MDg4MDdf/Manjarotv.jpg","titleNovela":"MANJARO TV"},
-
-{"descriptionNovela":"bbc drama est une chaine de divertissement, des films et series pour votre divertissement","sourceNovela":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png","titleNovela":"BBC DRAMA TV"},
-
-
-
-
-
-
-
-
-
-]}]}
+{"description":"bbc drama est une chaine de divertissement, des films et series pour votre divertissement","sources":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png","title":"BBC DRAMA TV"}]}]}
