@@ -148,6 +148,8 @@
 
 {"description":"Africa 24 est une chaîne télévisée d'informations international et autres.","sources":["https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","title":"AFRICA 24"},
 
+{"description":"SABC NEWS est une chaîne télévisée d'informations international et autres.","sources":["http://185.59.221.131:8081/live/sabcnews/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNjYxNDFf/sabcnews.jpg","title":"SABC NEWS"},
+
 {"description":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sources":["https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","title":"BLOOMBERG TV"},
 
 {"description":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sources":["https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","title":"BLOOMBERG 2"},
