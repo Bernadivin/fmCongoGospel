@@ -1,6 +1,8 @@
 # fmCongoGospel
 {"categories":[{"name":"Movies","videos":[{"description":"Wrestling WWE GLOBAL est une chaîne télévisée spécialisée au sports international.","sources":["http://185.59.221.131:8081/live/wwe/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png","title":"WWE GLOBAL"},
 
+{"description":"Super Sport Blitz","sources":["http://185.59.221.131:8081/live/supersportmaximo1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNjA2NzVf/supersportmaximo1.jpeg","title":"SUPER SPORT MAXIMO 1"},
+
 {"description":"Super Sport Action","sources":["http://185.59.221.131:8081/live/supersportaction/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNTc0NTZf/supersportactions.png","title":"SUPER SPORT ACTION"},
 
 {"description":"Super Sport Blitz","sources":["http://185.59.221.131:8081/live/supersportbitz/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNTg5ODNf/supersportblitz.jpeg","title":"SUPER SPORT BLITZ"},
