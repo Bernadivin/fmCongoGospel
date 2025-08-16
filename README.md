@@ -1,134 +1,177 @@
 # fmCongoGospel
-{"categories":[{"name":"Movies","videos":[{"description":"Wrestling WWE GLOBAL est une chaîne télévisée spécialisée au sports international.","sources":["http://185.59.221.131:8081/live/wwe/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png","title":"WWE GLOBAL"},
-
-{"description":"Super Sport Blitz","sources":["http://185.59.221.131:8081/live/supersportmaximo1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNjA2NzVf/supersportmaximo1.jpeg","title":"SUPER SPORT MAXIMO 1"},
-
-{"description":"Super Sport Action","sources":["http://185.59.221.131:8081/live/supersportaction/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNTc0NTZf/supersportactions.png","title":"SUPER SPORT ACTION"},
-
-{"description":"Super Sport Blitz","sources":["http://185.59.221.131:8081/live/supersportbitz/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNTg5ODNf/supersportblitz.jpeg","title":"SUPER SPORT BLITZ"},
-
-{"description":"Congo FM GOSPEL est l'une des Televisions en charactere Gospel avec la diversite sans stop de la Musique Religieuse, Prédications et autres... Sans oublier des Emissions special chretienne. Veuillez nous contacter : congomonpays243@gmail.com","sources":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcwMjI0ODRf/fmGospelCongo.jpg","title":"CONGO FM GOSPEL"},
-
-{"description":"Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....","sources":["http://145.239.5.177:8080/512/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODU4MzBf/beinone.png","title":"BEIN SPORTS 1"},
-
-{"description":"Bein Sports 2 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....","sources":["http://145.239.5.177:8080/513/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODU4MThf/beintwo.png","title":"BEIN SPORTS 2"},
-
-{"description":"Bein Sports 3 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés...","sources":["http://145.239.5.177:8080/514/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODU4MDZf/beintree.png","title":"BEIN SPORTS 3"},
-
-{"description":"FUTBOLL MATCH est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://194.143.148.28/MatchFutbol1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"FUTBOLL MATCH"},
-
-{"description":"Canal+ Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://145.239.5.177:8080/537/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTMwNjFf/canalPlusOne.jpg","title":"CANAL+ SPORTS 1"},
-
-{"description":"Canal+ Sports 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://145.239.5.177:8080/538/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTMwNjJf/canalPlusSportTwo.png","title":"CANAL+ SPORTS 2"},
-
-{"description":"Canal+ Sports 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://145.239.5.177:8080/342/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTMwNjNf/canalPlusSportsThree.jpg","title":"CANAL+ SPORTS 3"},
-
-{"description":"RMC 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://145.239.5.177:8080/524/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg","title":"RMC 1"},
-
-{"description":"RMC 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://145.239.5.177:8080/525/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png","title":"RMC 2"},
-
-{"description":"RMC 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://145.239.5.177:8080/526/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png","title":"RMC 3"},
-
-{"description":"Super sports Grand Stand","sources":["http://145.239.5.177:8080/567/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTgzNTc3NTRf/granndStand.jpg","title":"SUPER SPORTS"},
-
-{"description":"Amazon Prime 1 est la chaine consacrée aux Sports et aux activités sportives....","sources":["http://145.239.5.177:8080/516/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTExMDhf/AmazonSportOne.jpg","title":"AMAZON PRIME 1"},
-
-{"description":"Amazon Prime 2 est la chaine consacrée aux Sports et aux activités sportives....","sources":["http://145.239.5.177:8080/517/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTExMTFf/AmazonSpostTwo.jpg","title":"AMAZON PRIME 2"},
-
-{"description":"Amazon Prime 3est la chaine consacrée aux Sports et aux activités sportives....","sources":["http://145.239.5.177:8080/518/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTExMTJf/AmazonSportThree.jpg","title":"AMAZON PRIME 3"},
-
-{"description":"Chine Global Television Network TV 2 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sources":["http://livefr.cgtn.com/1000f/prog_index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg","title":"CGTN"},
-
-{"description":"Chine Global Television Network TV 1 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sources":["http://live.cgtn.com/1000/prog_index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg","title":"CGTN 2"},
-
-{"description":"Adventure Earth UK est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sources":["https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ADVENTURE EARTH UK"},
-
-{"description":"National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.","sources":["http://168.227.22.18:1935/live/mobile-091/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","title":"NAT GEOGRAPHIC"},
-
-
-{"description":"Disney TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg","title":"SUPER FILM"},
-
-{"description":"Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg","title":"MYTIME MOVIES"},
-
-{"description":"Rakuten Action est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/2000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY5NTM4MzNf/rakuaction.jpg","title":"RAKUTEN ACTION"},
-
-{"description":"Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTE2NzM5MjVf/cinmax.jpeg","title":"CINE MAX"},
-
-{"description":"Rakuten Drama est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-romance-7-fr.plex.wurl.tv/2000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY5NTM4MzJf/rakudrama.jpg","title":"FILM DRAMA"},
-
-{"description":"PLEX TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["http://41.223.30.250:5000/plextv/@plextv/chunklist_w319266551.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA5OTk4NTRf/plex.png","title":"PLEX TV"},
-
-{"description":"Rakuten Fiction est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-films-francais-1-eu.rakuten.wurl.tv/2000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY5NTM5MTVf/fiction.jpg","title":"FILM FICTION"},
-
-{"description":"Rakuten MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-actionmovies-7-fr.samsung.wurl.tv/2000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY5NTM4MzVf/rakumovie.jpg","title":"RAKUTEN MOVIE"},
-
-{"description":"Rakuten TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.","sources":["https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNTg5Mjhf/rakuten.png","title":"FILM PLUS"},
-
-{"description":"Gospel Movies TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres","sources":["https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNjU3MzNf/gospelmovie.jpeg","title":"GOSPEL MOVIES"},
-
-
-
-{"description":"Trace Bazuka TV est une chaîne télévisée spécialisée dans la musique international","sources":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODgxNTc5NzRf/brazuca.png","title":"TRACE BAZUKA"},
-
-{"description":"Trace Urbain TV est la chaine consacrée à la musique d'Afrique et internationale....","sources":["https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDQ5MzVf/urban","title":"TRACE URBAN"},
-
-{"description":"Afrobeat tv is a division of kaycee records .Kaycee Records is an independent record label established in the United Kingdom, and Nigeria Owned by Kennedy Kesidi Richard from Oguta in Imo State Nigeria .Afro beat tv is the new musical innovation to promote African art and and as a platform to promote and create awareness for up coming African artist all around the globe","sources":["https://stream.ecable.tv/afrobeats/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTEwMjk3MDBf/afrobeats.jpg","title":"AFROBEATS"},
-
-{"description":"AFROBIT TV est la chaine de la RDCongo qui emette de la capital congolaise kinshasa qui diffuse de la musique congolaise et internationale","sources":["http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNDU0NzcyNzRf/afrobeats.jpg","title":"AFROBIT TV"},
-
-{"description":"Obosso TV est une chaîne du congo brazza en diffusant des musiques congolaise et africains....","sources":["https://obossobroadcast.fr/otv/obossotv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","title":"OBOSSO TV"},
-
-{"description":"DBN TV est la chaine consacrée à la musique d'Afrique et internationale....","sources":["https://edge11.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDQ5NDRf/dbm","title":"DBN TV"},
-
-{"description":"Tele Musik TV est la chaine privee du senegal consacree au music....","sources":["https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTEwMjQ3MTBf/telemusiksenegal.png","title":"TELE MUSIK"},
-
-{"description":"Trace Ivoire TV est la premiere chaine culturelle consacree a la musique Rumba, Ndombolo et autres du congo. kinmedia1@gmail.com, Société de médias/d’actualités , kinmedia tv","sources":["https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png","title":"TRACE IVOIRE"},
-
-{"description":"V2beat TV est la chaîne consacree à la musique internationale","sources":["https://de1se01.v2beat.live/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNTQ5OTJf/v2beat.jpeg","title":"V2BEAT TV"},
-
-{"description":"Pulse P TV est une chaîne de télévision de divertissement africains","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/pulse/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2ODdf/pulsep.jpg","title":"PULSE TV"},
-
-{"description":"BAZIK TV c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo Canal 19, ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.","sources":["https://baziktv.vedge.infomaniak.com/livecast/ik:baziktv/manifest.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjk4NjQ4NzBf/baziktv.png","title":"BAZIK TV"},
-
-{"description":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.","sources":["https://bazikrumba.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjk4NjQ2MTlf/bazikrumba.jpg","title":"BAZIK RUMBA"},
-
-{"description":"BAZIK Africa c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo Canal 19, ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.","sources":["https://bazikafrica.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjk4NjQ1MTZf/bazikafrica.png","title":"BAZIK AFRICA"},
-
-{"description":"BAZIK HOT TV c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo Canal 19, ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.","sources":["https://edge18.vedge.infomaniak.com/livecast/ik:bazikhot/chunklist_w659097606.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTEwMjk1MzRf/bazikhot.jpg","title":"BAZIK HOT"},
-
-{"description":"MCM TOP 10 TV est une chaîne télévisée spécialisée dans la musique international","sources":["http://ott-cdn.ucom.am/s49/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY1NjM2Njlf/mcmtop.png","title":"MCM TOP 10"},
-
-{"description":"Ayisyana Musik TV est une chaîne de télévision du musique international","sources":["https://59d39900ebfb8.streamlock.net:443/RTHAITIANA/RTHAITIANA/chunklist_w1180876317.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODgxNTgwNDVf/ayisyane.jpg","title":"AYISYANA MUSIK"},
-
-{"description":"TMA Caraïbes est une chaîne télévisée spécialisée dans la musique africaine et international.","sources":["http://hls.tmacaraibes.com/live/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMyMzgzMjhf/tma.jpeg","title":"T.M.A CARAÏBES"},
-
-{"description":"TV5 est une francaise d'informations international et autres.","sources":["https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg","title":"TV5 MONDE"},
-
-{"description":"RT France est une chaîne télévisée d'informations international et autres.","sources":["http://69.64.57.208/rtfrance/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png","title":"RT FRANCE"},
-
-{"description":"Business 24 TV est une chaîne télévisée d'informations international et autres.","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BUSINESS 24"},
-
-{"description":"Africa 24 est une chaîne télévisée d'informations international et autres.","sources":["https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg","title":"AFRICA 24"},
-
-{"description":"SABC NEWS est une chaîne télévisée d'informations international et autres.","sources":["http://185.59.221.131:8081/live/sabcnews/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNjYxNDFf/sabcnews.jpg","title":"SABC NEWS"},
-
-{"description":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sources":["https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","title":"BLOOMBERG TV"},
-
-{"description":"Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.","sources":["https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png","title":"BLOOMBERG 2"},
-
-{"description":"EURONEWS est une chaîne télévisée d'informations international et autres.","sources":["https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTM4NjJf/euronew.png","title":"EURONEWS ENGLISH"}]}]}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]}]}
+{"categories":[{"name":"Movies","videos":[
+                {
+    "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone",
+      "sources": [
+          "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8"
+          ],
+          "number": "01",
+          "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg",
+          "title": "3K HD TÉLÉVISION"
+                },
+                 {
+    "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo",
+      "sources": [
+          "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8"
+          ],
+          "number": "02",
+          "thumb": "https://od.lk/s/NDZfODIzMzg2NDlf/finesseTVmonde.jpg",
+          "title": "FINESSE MONDE TV"
+                },
+                {
+    "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.",
+      "sources": [
+          "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8"
+          ],
+          "number": "03",
+          "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg",
+          "title": "GOLGOTHA TV"
+                },
+                 {
+    "description": "Cineac television est une chaine cinematographique qui diffuse les films ainsi que les series Congolaise et Africaines",
+      "sources": [
+          "https://stream.berosat.live:19360/cineac-tv/cineac-tv.m3u8"
+          ],
+          "number": "04",
+          "thumb": "https://od.lk/s/NDZfODIyODg2ODVf/cineacTV.jpg",
+          "title": "CINEAC TV"
+                },
+                {
+    "description": "Groupe de la Gloireune chaine chrétienne, de développement et promotion de la culture congolaise",
+      "sources": [
+          "https://stream.berosat.live:19360/gg-tv/gg-tv.m3u8"
+          ],
+          "number": "05",
+          "thumb": "https://od.lk/s/NDZfODQ2MDUzMzdf/ggtv.jpg",
+          "title": "GG TV"
+                },
+                {
+    "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC. JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...",
+      "sources": [
+          "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8"
+          ],
+          "number": "06",
+          "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg",
+          "title": "JOY TV"
+                },
+                {
+    "description": "NTI TV est une chaîne privée émettant à Brazzaville",
+      "sources": [
+          "https://stream.berosat.live:19360/nti-index/nti-index.m3u8"
+          ],
+          "number": "07",
+          "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg",
+          "title": "NTI TV"
+                },
+                {
+    "description": "Hannabih Télévision est la Première chaîne panafricaniste",
+      "sources": [
+          "https://stream.berosat.live:19360/hannabih-tv/hannabih-tv.m3u8"
+          ],
+          "number": "08",
+          "thumb": "https://od.lk/s/NDZfODQxODY3MTBf/hannabih.jpg",
+          "title": "HANNABIH TV"
+                },
+                {
+    "description": "Masolo television est une chaîne privee en Republique Democratique du Congo",
+      "sources": [
+          "https://stream.berosat.live:19360/masolo-tv/masolo-tv.m3u8"
+          ],
+          "number": "09",
+          "thumb": "https://od.lk/s/NDZfODQ0MjMyNTNf/masolotv.jpg",
+          "title": "MASOLO TV"
+                },
+                {
+    "description": "Machine Record television est une Chaine généraliste culturelle émettent depuis Kinshasa en Republique Democratique du Congo",
+      "sources": [
+          "https://stream.berosat.live:19360/machine-record/machine-record.m3u8"
+          ],
+          "number": "10",
+          "thumb": "https://od.lk/s/NDZfODQyOTc4ODRf/machineRecord.jpg",
+          "title": "MACHINE RECORD TV"
+                },
+                {
+    "description": "JDK télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais",
+      "sources": [
+          "https://stream.berosat.live:19360/jdk-tv/jdk-tv.m3u8"
+          ],
+          "number": "11",
+          "thumb": "https://od.lk/s/NDZfODQzMzUzNDNf/jdktv.jpg",
+          "title": "JDK TV"
+                },
+                {
+    "description": "La Reeunion Television est une chaîne generaliste émettant à Kinshasa",
+      "sources": [
+          "https://stream.berosat.live:19360/lareunion-tv-stream/lareunion-tv-stream.m3u8"
+          ],
+          "number": "12",
+          "thumb": "https://od.lk/s/NDZfODE2MTg0OTdf/lareunion.png",
+          "title": "LA REUNION TV"
+                },
+                {
+    "description": "Mbaliosombo télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais !!!",
+      "sources": [
+          "https://stream.berosat.live:19360/mbalio-tv/mbalio-tv.m3u8"
+          ],
+          "number": "13",
+          "thumb": "https://od.lk/s/NDZfODQzMTM0MjZf/mbaliosombo.jpg",
+          "title": "MBALIOSOMBO TV"
+                },
+                {
+    "description": "Cop television est la chaîne generaliste Émettant en Republique Democratique du Congo.",
+      "sources": [
+          "https://stream.berosat.live:19360/cop-tv/cop-tv.m3u8"
+          ],
+          "number": "14",
+          "thumb": "https://od.lk/s/NDZfODExNTUxMTFf/copTV.jpg",
+          "title": "COP TELEVISION"
+                },
+                {
+    "description": "MEMJS télévision, nous sommes une chaine chrétienne pour le salut des Ames",
+      "sources": [
+          "https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8"
+          ],
+          "number": "15",
+          "thumb": "https://od.lk/s/NDZfODQyOTY5OTBf/memjs.jpg",
+          "title": "MEMJS TV"
+                },
+                 {
+    "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais",
+      "sources": [
+          "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8"
+          ],
+          "number": "16",
+          "thumb": "https://od.lk/s/NDZfODQxMzg1ODNf/mcprotv.jpg",
+          "title": "MC PRO TV"
+                },
+                {
+    "description": "Tolombo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo",
+      "sources": [
+          "https://stream.berosat.live:19360/lotombo-index/lotombo-index.m3u8"
+          ],
+          "number": "17",
+          "thumb": "https://od.lk/s/NDZfODQ0MjM3NTVf/lotombotv.jpg",
+          "title": "LOTOMBO TV"
+                },
+                {
+    "description": "Les Erudits télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais",
+      "sources": [
+          "https://stream.berosat.live:19360/erudits-tv/erudits-tv.m3u8"
+          ],
+          "number": "18",
+          "thumb": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
+          "title": "LES ERUDITS TV"
+                },
+                {
+    "description": "MK Ngoma television est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin",
+      "sources": [
+          "https://stream.berosat.live:19360/mk-ngoma-tv/mk-ngoma-tv.m3u8"
+          ],
+          "number": "19",
+          "thumb": "https://od.lk/s/NDZfODMzNzE4MjNf/mkNgomatv.jpg",
+          "title": "MK NGOMA TV"
+                }
+              ]
+            }
+          ]
+        }
