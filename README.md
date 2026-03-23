@@ -163,13 +163,76 @@
           "title": "A+ IVOIRE"
                 },
                 {
-    "description": "MK Ngoma television est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin",
+    "description": "Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
       "sources": [
-          "https://stream.berosat.live:19360/mk-ngoma-tv/mk-ngoma-tv.m3u8"
+          "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8"
           ],
-          "number": "19",
-          "thumb": "https://od.lk/s/NDZfODMzNzE4MjNf/mkNgomatv.jpg",
-          "title": "MK NGOMA TV"
+          "number": "168",
+          "thumb": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
+          "title": "DISNEY JUNIOR"
+                },
+                {
+    "description": "Nickelodeon Junior television est une chaîne télévisée spécialisée aux enfants et autres.",
+      "sources": [
+          "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
+          ],
+          "number": "169",
+          "thumb": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+          "title": "NICKELODEON Jr"
+                },
+                 {
+    "description": "Nickelodeon HD television est une chaîne télévisée spécialisée aux enfants et autres..",
+      "sources": [
+          "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8"
+          ],
+          "number": "170",
+          "thumb": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+          "title": "NICKELODEON HD"
+                },
+                {
+    "description": "Nickelodeon HD television est une chaîne télévisée spécialisée aux enfants et autres..",
+      "sources": [
+          "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8"
+          ],
+          "number": "171",
+          "thumb": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+          "title": "NICKELODEON"
+                },
+                {
+    "description": "Piwi Plus television est une chaîne télévisée spécialisée aux enfants et autres.",
+      "sources": [
+          "http://37.187.138.41:80/Piwi-plus/index.m3u8"
+          ],
+          "number": "172",
+          "thumb": "https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg",
+          "title": "PIWI PLUS TV"
+                },
+                {
+    "description": "Canal J television est une chaîne télévisée spécialisée aux enfants et autres..",
+      "sources": [
+          "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8"
+          ],
+          "number": "173",
+          "thumb": "https://od.lk/s/NDZfODcwNTA4NzFf/canalJ.png",
+          "title": "CANAL J"
+                },
+                 {
+    "description": "tivi 5 television est une chaîne télévisée spécialisée aux enfants et autres.",
+      "sources": [
+          "https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8"
+          ],
+          "number": "174",
+          "thumb": "https://od.lk/s/NDZfODQyMTg0ODhf/tivi5.jpeg",
+          "title": "TIVI 5"
+                },
+                {
+    "description": "CAILLOU television est une chaîne télévisée spécialisée aux enfants et autres.",
+      "sources": [
+          "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8"
+          ],
+          "number": "175",
+          "thumb": "https://od.lk/s/NDZfODQyMTg1MDBf/caillou.png",
+          "title": "CAILLOU TV"
                 }
               ]
             }
