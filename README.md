@@ -46,121 +46,121 @@
           "title": "SPORTS 6"
                 },
                 {
-    "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC. JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...",
+    "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
       "sources": [
-          "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8"
+          "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
           ],
-          "number": "06",
-          "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg",
-          "title": "JOY TV"
+          "number": "155",
+          "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+          "title": "TOP NOVELAS"
                 },
                 {
-    "description": "NTI TV est une chaîne privée émettant à Brazzaville",
+    "description": "NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions",
       "sources": [
-          "https://stream.berosat.live:19360/nti-index/nti-index.m3u8"
+          "https://vavoo.to/play/1626033852/index.m3u8"
           ],
-          "number": "07",
-          "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg",
-          "title": "NTI TV"
+          "number": "156",
+          "thumb": "https://od.lk/s/NDZfODkxNTg1NTFf/novelas.jpeg",
+          "title": "NOVELAS TV"
                 },
                 {
-    "description": "Hannabih Télévision est la Première chaîne panafricaniste",
+    "description": "FREQUENCE NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions",
       "sources": [
-          "https://stream.berosat.live:19360/hannabih-tv/hannabih-tv.m3u8"
+          "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
           ],
-          "number": "08",
-          "thumb": "https://od.lk/s/NDZfODQxODY3MTBf/hannabih.jpg",
-          "title": "HANNABIH TV"
+          "number": "157",
+          "thumb": "https://od.lk/s/NDZfNzgzMzQyNjFf/frequenceNovelas.jpg",
+          "title": "FREQUENCE NOVELAS"
                 },
                 {
-    "description": "Masolo television est une chaîne privee en Republique Democratique du Congo",
+    "description": "TELEVISA FRANCAIS tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes avec tant des emotions ",
       "sources": [
-          "https://stream.berosat.live:19360/masolo-tv/masolo-tv.m3u8"
+          "https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8"
           ],
-          "number": "09",
-          "thumb": "https://od.lk/s/NDZfODQ0MjMyNTNf/masolotv.jpg",
-          "title": "MASOLO TV"
+          "number": "158",
+          "thumb": "https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg",
+          "title": "TELEVISA FRANCAIS"
                 },
                 {
-    "description": "Machine Record television est une Chaine généraliste culturelle émettent depuis Kinshasa en Republique Democratique du Congo",
+    "description": "NOVELAS tv 1 est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
       "sources": [
-          "https://stream.berosat.live:19360/machine-record/machine-record.m3u8"
+          "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"
           ],
-          "number": "10",
-          "thumb": "https://od.lk/s/NDZfODQyOTc4ODRf/machineRecord.jpg",
-          "title": "MACHINE RECORD TV"
+          "number": "159",
+          "thumb": "https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg",
+          "title": "NOVELAS 1"
                 },
                 {
-    "description": "JDK télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais",
+    "description": "STROMCAST NOVELAS tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
       "sources": [
-          "https://stream.berosat.live:19360/jdk-tv/jdk-tv.m3u8"
+          "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"
           ],
-          "number": "11",
-          "thumb": "https://od.lk/s/NDZfODQzMzUzNDNf/jdktv.jpg",
-          "title": "JDK TV"
+          "number": "160",
+          "thumb": "https://od.lk/s/NDZfODg3ODkzMjJf/stromcastNovelastv.png",
+          "title": "STROMCAST NOVELAS"
                 },
                 {
-    "description": "La Reeunion Television est une chaîne generaliste émettant à Kinshasa",
+    "description": "TELE NOVELAS tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions",
       "sources": [
-          "https://stream.berosat.live:19360/lareunion-tv-stream/lareunion-tv-stream.m3u8"
+          "https://d1qf1fnbo60xec.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-arjkqtr3hyot6/master.m3u8"
           ],
-          "number": "12",
-          "thumb": "https://od.lk/s/NDZfODE2MTg0OTdf/lareunion.png",
-          "title": "LA REUNION TV"
+          "number": "161",
+          "thumb": "https://od.lk/s/NDZfODg3ODkzMjNf/telenovelastv.png",
+          "title": "TELE NOVELAS"
                 },
                 {
-    "description": "Mbaliosombo télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais !!!",
+    "description": "PASSION NOVELAS tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions",
       "sources": [
-          "https://stream.berosat.live:19360/mbalio-tv/mbalio-tv.m3u8"
+          "https://d18gemy7v2tebj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0n7p3ckq9ethd/PassionNovelas_FR.m3u8"
           ],
-          "number": "13",
-          "thumb": "https://od.lk/s/NDZfODQzMTM0MjZf/mbaliosombo.jpg",
-          "title": "MBALIOSOMBO TV"
+          "number": "162",
+          "thumb": "https://od.lk/s/NDZfODkxNjgwMzhf/PassionNovelas.png",
+          "title": "PASSION NOVELAS"
                 },
                 {
-    "description": "Cop television est la chaîne generaliste Émettant en Republique Democratique du Congo.",
+    "description": "PASSION BOLLYWOOD tv est une chaine specialise au series  series novelas Indiennes avec tant des emotions.",
       "sources": [
-          "https://stream.berosat.live:19360/cop-tv/cop-tv.m3u8"
+          "https://d30nk0rfmci3c2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t0spvfjnrozo2/PassionBollywood_FR.m3u8"
           ],
-          "number": "14",
-          "thumb": "https://od.lk/s/NDZfODExNTUxMTFf/copTV.jpg",
-          "title": "COP TELEVISION"
+          "number": "163",
+          "thumb": "https://od.lk/s/NDZfNzgzMzg3NDNf/passionBollywood.jpg",
+          "title": "PASSION BOLLYWOOD"
                 },
                 {
-    "description": "MEMJS télévision, nous sommes une chaine chrétienne pour le salut des Ames",
+    "description": "ZEE ONE FRANCAIS tv est une chaine specialise au series  series novelas Indiennes avec tant des emotions",
       "sources": [
-          "https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8"
+          "https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8"
           ],
-          "number": "15",
-          "thumb": "https://od.lk/s/NDZfODQyOTY5OTBf/memjs.jpg",
-          "title": "MEMJS TV"
+          "number": "164",
+          "thumb": "https://od.lk/s/NDZfODg3ODkzMjdf/Zee%20One.jpeg",
+          "title": "ZEE ONE FRANCAIS"
                 },
                  {
-    "description": "Mvuluzi Cinema Professionnel télévision , une chaîne d'Entertaiment pour promouvoir le cinema Congolais",
+    "description": "ZEE ONE ENGLISH tv est une chaine specialise au series  series novelas Indiennes avec tant des emotions",
       "sources": [
-          "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8"
+          "https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8"
           ],
-          "number": "16",
-          "thumb": "https://od.lk/s/NDZfODQxMzg1ODNf/mcprotv.jpg",
-          "title": "MC PRO TV"
+          "number": "165",
+          "thumb": "https://od.lk/s/NDZfODg3OTA4ODVf/zeeOnetv.png",
+          "title": "ZEE ONE ENGLISH"
                 },
                 {
-    "description": "Tolombo Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo",
+    "description": "NOLLYWOOD TV tv est une chaine specialise au series  series  Africaines avec tant des Passions et Emotions",
       "sources": [
-          "https://stream.berosat.live:19360/lotombo-index/lotombo-index.m3u8"
+          "http://69.64.57.208/aforevo/playlist.m3u8"
           ],
-          "number": "17",
-          "thumb": "https://od.lk/s/NDZfODQ0MjM3NTVf/lotombotv.jpg",
-          "title": "LOTOMBO TV"
+          "number": "166",
+          "thumb": "https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
+          "title": "NOLLYWOOD TV"
                 },
                 {
-    "description": "Les Erudits télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais",
+    "description": "A+ IVOIRE TV tv est une chaine specialise au series  series Ivoiriens et autres Africaines savec tant des Passions et Emotions",
       "sources": [
-          "https://stream.berosat.live:19360/erudits-tv/erudits-tv.m3u8"
+          "http://69.64.57.208/atv/playlist.m3u8"
           ],
-          "number": "18",
-          "thumb": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
-          "title": "LES ERUDITS TV"
+          "number": "167",
+          "thumb": "https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg",
+          "title": "A+ IVOIRE"
                 },
                 {
     "description": "MK Ngoma television est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin",
