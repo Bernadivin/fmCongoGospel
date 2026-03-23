@@ -1,49 +1,49 @@
 # fmCongoGospel
 {"categories":[{"name":"Movies","videos":[
                 {
-    "description": "3K HD TÉLÉVISION, une chaine culturelle 100% swahiliphone",
+    "description": "Sport 1 TV TV est une chaine du Sports International.",
       "sources": [
-          "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8"
+          "http://185.132.134.159:80/sport1/index.m3u8"
           ],
-          "number": "01",
-          "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg",
-          "title": "3K HD TÉLÉVISION"
+          "number": "150",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODNf/sports1tv.png",
+          "title": "SPORTS 1"
                 },
                  {
-    "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo",
+    "description": "Sport 2 TV TV est une chaine du Sports International.",
       "sources": [
-          "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8"
+          "http://185.132.134.159:80/sport2/index.m3u8"
           ],
-          "number": "02",
-          "thumb": "https://od.lk/s/NDZfODIzMzg2NDlf/finesseTVmonde.jpg",
-          "title": "FINESSE MONDE TV"
+          "number": "151",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODRf/sports2tv.png",
+          "title": "SPORTS 2"
                 },
                 {
-    "description": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.",
+    "description": "Sport 3 TV TV est une chaine du Sports International.",
       "sources": [
-          "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8"
+          "http://185.132.134.159:80/sport3/index.m3u8"
           ],
-          "number": "03",
-          "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg",
-          "title": "GOLGOTHA TV"
+          "number": "152",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODVf/sports3tv.png",
+          "title": "SPORTS 3"
                 },
                  {
-    "description": "Cineac television est une chaine cinematographique qui diffuse les films ainsi que les series Congolaise et Africaines",
+    "description": "Sport 4 TV TV est une chaine du Sports International.",
       "sources": [
-          "https://stream.berosat.live:19360/cineac-tv/cineac-tv.m3u8"
+          "http://185.132.134.159:80/sport4/index.m3u8"
           ],
-          "number": "04",
-          "thumb": "https://od.lk/s/NDZfODIyODg2ODVf/cineacTV.jpg",
-          "title": "CINEAC TV"
+          "number": "153",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODhf/spots4tv.png",
+          "title": "SPORTS 4"
                 },
                 {
-    "description": "Groupe de la Gloireune chaine chrétienne, de développement et promotion de la culture congolaise",
+    "description": "Sport 6 TV TV est une chaine du Sports International.",
       "sources": [
-          "https://stream.berosat.live:19360/gg-tv/gg-tv.m3u8"
+          "http://185.132.134.159:80/sport6/index.m3u8"
           ],
-          "number": "05",
-          "thumb": "https://od.lk/s/NDZfODQ2MDUzMzdf/ggtv.jpg",
-          "title": "GG TV"
+          "number": "154",
+          "thumb": "https://od.lk/s/NDZfOTEyMDU1ODdf/sports6tv.png",
+          "title": "SPORTS 6"
                 },
                 {
     "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC. JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...",
